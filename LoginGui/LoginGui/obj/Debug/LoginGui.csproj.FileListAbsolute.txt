@@ -1,0 +1,11 @@
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\bin\Debug\LoginGui.exe.config
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\bin\Debug\LoginGui.exe
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\bin\Debug\LoginGui.pdb
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\obj\Debug\LoginGui.csproj.AssemblyReference.cache
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\obj\Debug\LoginGui.Form1.resources
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\obj\Debug\LoginGui.Home.resources
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\obj\Debug\LoginGui.Properties.Resources.resources
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\obj\Debug\LoginGui.csproj.GenerateResource.cache
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\obj\Debug\LoginGui.csproj.CoreCompileInputs.cache
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\obj\Debug\LoginGui.exe
+C:\Users\Eng Mo Base\Desktop\C#\LoginGui\LoginGui\obj\Debug\LoginGui.pdb
